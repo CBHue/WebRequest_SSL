@@ -3,11 +3,9 @@
 # sslWebRequest.ps1 
 #
 # Description: 
-# Automates running hascat over multiple wordlists. Smallest to largest
+# SSL Web request using powershell
 #
 # Example: 
-# Script options --hash type --location of hash to crack --location of pass files --output log directory
-#
 # .\sslWebRequest.ps1 -proxy http://127.0.0.1:8080 -hostHeader localhost.localdomain.com -masqueradeHost 127.0.0.1
 #
 #
